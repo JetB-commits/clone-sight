@@ -1,0 +1,50 @@
+             &#xa0; 
+            <br /> 【その他の使用商品】 
+            <br /> ・壁タイル： 
+            <a href="/shop/p/TL85211/">ポテス335 タープ</a> 
+            <strong><span data-squaremeterunitprice="TL85211">￥</span>/m²</strong> 
+            <br /> ・ルーバー： 
+            <a href="/shop/p/DE12301/">ランネルウッドナチュラル 3.0 25×75</a> 
+            <strong><span data-squaremeterunitprice="DE12301">￥</span>/m²</strong> 
+            <p>&#xa0;</p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="HTMLBlock173799" class="HTMLBlock"> 
+        <div style="width:100%; position:relative; padding-bottom:56.25%;"> 
+         <script type="text/javascript" charset="UTF-8" src="https://ssl-cache.stream.ne.jp/www50/eqg819tjre/jmc_pub/jmc_swf/player/t3/if.js"></script> 
+         <script type="text/javascript">
+jstream_t3.PlayerFactoryIF.create({
+b:"eqg819tjre.eq.webcdn.stream.ne.jp/www50/eqg819tjre/jmc_pub/jmc_swf/player/",
+c:"NjcxNQ==",
+m:"MjU3",
+s:{
+bskb:"10",
+dq:"0",
+fskb:"10",
+hp:511,
+il:"off",
+mdq:"0",
+pr:"0.5,0.7,1.2,1.5,2.0",
+rp:"fit",
+sbt:"off",
+sn:"",
+tg:"off",
+wp:910
+}});
+</script> 
+         <noscript> 
+          <div>
+            このコンテンツを見るためにはJavaScriptを有効にしてください。Please enable JavaScript to watch this content. 
+          </div> 
+         </noscript> 
+        </div> 
+       </div> 
+       <div class="ccm-custom-style-container ccm-custom-style-main-173803"> 
+        <div id="HTMLBlock173803" class="HTMLBlock"> 
+         <div id="color_variation" style="margin-top:-40px; padding-top:40px;"></div> 
+        </div> 
+       </div> 
+       <div id="HTMLBlock178663" class="HTMLBlock"> 
